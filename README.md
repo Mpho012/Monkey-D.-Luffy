@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dokotel
+- 👋 Hi, I’m @Mpho_Maake
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
